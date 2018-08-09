@@ -1,2 +1,2 @@
-FROM	k8s.gcr.io/heapster-amd64:v1.5.4
+FROM		gcr.io/google_containers/heapster-amd64:v1.3.0-beta.1
 MAINTAINER	caoxuefeng
